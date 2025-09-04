@@ -1,6 +1,6 @@
 # About Me
 <br/>
-**Name:** _Zainab Zehra_
+** Name: ** _Zainab Zehra_
 <br/>
 **Degree:** _BS AI_
 <br/>
