@@ -1,9 +1,8 @@
 # About Me
 <br/>
-
 ** Name: ** _Zainab Zehra_
 
-<br/>
+<br><br/>
 **Degree:** _BS AI_
 
 <br/>
