@@ -12,7 +12,7 @@ My O Level Subjects
 - Chemistry
 - Biology
 
-  My A level Subjects
+My A level Subjects
   
   1. Physics
   2. Computer Science
